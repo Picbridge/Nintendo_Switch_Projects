@@ -1,0 +1,1 @@
+call "%NINTENDO_SDK_ROOT%\Tools\CommandLineTools\AuthoringTool\AuthoringTool.exe" createnspmeta -o "t.nspd" --meta Application.aarch64.lp64.nmeta --type Application
