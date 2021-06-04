@@ -1,0 +1,16 @@
+﻿formatType : NintendoContent
+version : 0
+contentType : Control
+keyGeneration : 5
+programId : 01004B9000490000
+programIndex : 0
+rightsId : 00000000000000000000000000000000
+contentIndex : 0
+descFilePath : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Resources\SpecFiles\Application.desc
+entries :
+  - type : format
+    formatType : RomFs
+    version : 2
+    hashType : 3
+    encryptionType : 3
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nsp.c0.Control.nca.rom.adf

@@ -1,0 +1,1155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="NX_Debug|NX32">
+      <Configuration>NX_Debug</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Debug|NX64">
+      <Configuration>NX_Debug</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Debug|Win32">
+      <Configuration>NX_Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Debug|x64">
+      <Configuration>NX_Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Develop|NX32">
+      <Configuration>NX_Develop</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Develop|NX64">
+      <Configuration>NX_Develop</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Develop|Win32">
+      <Configuration>NX_Develop</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Develop|x64">
+      <Configuration>NX_Develop</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Release|NX32">
+      <Configuration>NX_Release</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Release|NX64">
+      <Configuration>NX_Release</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Release|Win32">
+      <Configuration>NX_Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_Release|x64">
+      <Configuration>NX_Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Debug|NX32">
+      <Configuration>NX_VS2015_Debug</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Debug|NX64">
+      <Configuration>NX_VS2015_Debug</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Debug|Win32">
+      <Configuration>NX_VS2015_Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Debug|x64">
+      <Configuration>NX_VS2015_Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Develop|NX32">
+      <Configuration>NX_VS2015_Develop</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Develop|NX64">
+      <Configuration>NX_VS2015_Develop</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Develop|Win32">
+      <Configuration>NX_VS2015_Develop</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Develop|x64">
+      <Configuration>NX_VS2015_Develop</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Release|NX32">
+      <Configuration>NX_VS2015_Release</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Release|NX64">
+      <Configuration>NX_VS2015_Release</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Release|Win32">
+      <Configuration>NX_VS2015_Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2015_Release|x64">
+      <Configuration>NX_VS2015_Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Debug|NX32">
+      <Configuration>NX_VS2017_Debug</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Debug|NX64">
+      <Configuration>NX_VS2017_Debug</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Debug|Win32">
+      <Configuration>NX_VS2017_Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Debug|x64">
+      <Configuration>NX_VS2017_Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Develop|NX32">
+      <Configuration>NX_VS2017_Develop</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Develop|NX64">
+      <Configuration>NX_VS2017_Develop</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Develop|Win32">
+      <Configuration>NX_VS2017_Develop</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Develop|x64">
+      <Configuration>NX_VS2017_Develop</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Release|NX32">
+      <Configuration>NX_VS2017_Release</Configuration>
+      <Platform>NX32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Release|NX64">
+      <Configuration>NX_VS2017_Release</Configuration>
+      <Platform>NX64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Release|Win32">
+      <Configuration>NX_VS2017_Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="NX_VS2017_Release|x64">
+      <Configuration>NX_VS2017_Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MiiHeadwearExample.cpp" />
+    <ClCompile Include="SixAxisPointer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SixAxis.h" />
+    <ClInclude Include="SixAxisPointer.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ConfigurationType>Application</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{dc7b9b56-c0c1-388a-8fac-8db00d6a0fa3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>nn</RootNamespace>
+  </PropertyGroup>
+  <Choose>
+    <When Condition="'$([MSBuild]::GetDirectoryNameOfFileAbove($(MSBuildProjectDirectory), NintendoSdkRootMark))'!=''">
+      <PropertyGroup>
+        <NINTENDO_SDK_ROOT>$([MSBuild]::GetDirectoryNameOfFileAbove($(MSBuildProjectDirectory), NintendoSdkRootMark))</NINTENDO_SDK_ROOT>
+      </PropertyGroup>
+    </When>
+    <When Condition="'$([MSBuild]::GetDirectoryNameOfFileAbove($(MSBuildProjectDirectory), NintendoSdkRootDefinition.props))'!=''">
+      <PropertyGroup>
+        <NintendoSdkRootDefinitionFile>$([MSBuild]::GetDirectoryNameOfFileAbove($(MSBuildProjectDirectory), NintendoSdkRootDefinition.props))\NintendoSdkRootDefinition.props</NintendoSdkRootDefinitionFile>
+      </PropertyGroup>
+    </When>
+  </Choose>
+  <Import Project="$(NintendoSdkRootDefinitionFile)" Condition="'$(NintendoSdkRootDefinitionFile)'!=''" />
+  <PropertyGroup Condition="'$(NINTENDO_SDK_ROOT)'!=''">
+    <NintendoSdkRoot>$(NINTENDO_SDK_ROOT)\</NintendoSdkRoot>
+  </PropertyGroup>
+  <Choose>
+    <When Condition="exists('$(NintendoSdkRoot)Build\Vc\ForApplication\NintendoSdkVcProjectSettings.props')">
+      <PropertyGroup>
+        <NintendoSdkApplicationPropertySheetDirectory>$(NintendoSdkRoot)Build\Vc\ForApplication\</NintendoSdkApplicationPropertySheetDirectory>
+      </PropertyGroup>
+    </When>
+    <When Condition="exists('$(NintendoSdkRoot)Common\Build\Vc\ForApplication\NintendoSdkVcProjectSettings.props')">
+      <PropertyGroup>
+        <NintendoSdkApplicationPropertySheetDirectory>$(NintendoSdkRoot)Common\Build\Vc\ForApplication\</NintendoSdkApplicationPropertySheetDirectory>
+      </PropertyGroup>
+    </When>
+  </Choose>
+  <Choose>
+    <When Condition="exists('$(NintendoSdkRoot)Samples\Build\Vc\NintendoSdkSampleVcProjectSettings.props')">
+      <PropertyGroup>
+        <NintendoSdkSamplePropertySheetDirectory>$(NintendoSdkRoot)Samples\Build\Vc\</NintendoSdkSamplePropertySheetDirectory>
+      </PropertyGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX32'">
+    <TargetName>AudioRenderer</TargetName>
+    <NintendoSdkBuildType>Debug</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX32'">
+    <TargetName>AudioRenderer</TargetName>
+    <NintendoSdkBuildType>Develop</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX32'">
+    <TargetName>AudioRenderer</TargetName>
+    <NintendoSdkBuildType>Release</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX64'">
+    <TargetName>AudioRenderer</TargetName>
+    <NintendoSdkBuildType>Debug</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX64'">
+    <TargetName>AudioRenderer</TargetName>
+    <NintendoSdkBuildType>Develop</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX64'">
+    <TargetName>AudioRenderer</TargetName>
+    <NintendoSdkBuildType>Release</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <ApplicationProgramFormat>Nsp</ApplicationProgramFormat>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|Win32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|Win32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Release|Win32'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|Win32'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Debug</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|Win32'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Develop</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|Win32'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Release</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|Win32'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Debug</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v141</PlatformToolset>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|Win32'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Develop</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v141</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|Win32'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Release</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v141</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|x64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|x64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_Release|x64'">
+    <_NintendoSdkIsUnsupportedProjectConfiguration>true</_NintendoSdkIsUnsupportedProjectConfiguration>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|x64'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Debug</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|x64'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Develop</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|x64'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Release</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v140</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|x64'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Debug</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v141</PlatformToolset>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|x64'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Develop</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v141</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|x64'">
+    <TargetName>AudioRenderer</TargetName>
+    <CharacterSet>Unicode</CharacterSet>
+    <NintendoSdkBuildType>Release</NintendoSdkBuildType>
+    <NintendoSdkSpec>NX</NintendoSdkSpec>
+    <PlatformToolset>v141</PlatformToolset>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings" />
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Debug.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Develop.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Release.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Debug.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Develop.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Release.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Debug.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Develop.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Release.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Debug.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Develop.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Release.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Debug.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Develop.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Release|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Release.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|Win32'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Debug|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Debug.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Develop|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Develop.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_Release|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleSpec_NX.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleBuildType_Release.props" />
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|x64'">
+    <Import Project="$(NintendoSdkSamplePropertySheetDirectory)NintendoSdkSampleVcProjectSettings.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX32'">
+    <ApplicationDataDir>$(NintendoSdkContentDirectory)</ApplicationDataDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX32'">
+    <ApplicationDataDir>$(NintendoSdkContentDirectory)</ApplicationDataDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX32'">
+    <ApplicationDataDir>$(NintendoSdkContentDirectory)</ApplicationDataDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX64'">
+    <ApplicationDataDir>$(NintendoSdkContentDirectory)</ApplicationDataDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX64'">
+    <ApplicationDataDir>$(NintendoSdkContentDirectory)</ApplicationDataDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX64'">
+    <ApplicationDataDir>$(NintendoSdkContentDirectory)</ApplicationDataDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|Win32'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|x64'" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|x64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX32'">
+    <ClCompile>
+      <StrictAliasing>false</StrictAliasing>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libnn_init_memory.a;libnn_gfx.a;libnn_mii_draw.a;libnns_gfxLog.a;libnn_gfxUtil.a;libnns_audio.a;%(AdditionalDependencies)</AdditionalDependencies>
+      <FinalizeDescSource>$(NintendoSdkSpecFilesDirectory)Application.desc</FinalizeDescSource>
+      <FinalizeMetaSource>$(NintendoSdkSpecFilesDirectory)Application.arm.ilp32.nmeta</FinalizeMetaSource>
+    </Link>
+    <PreBuildEvent>
+      <Command>if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX32'">
+    <ClCompile>
+      <StrictAliasing>false</StrictAliasing>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libnn_init_memory.a;libnn_gfx.a;libnn_mii_draw.a;libnns_gfxLog.a;libnn_gfxUtil.a;libnns_audio.a;%(AdditionalDependencies)</AdditionalDependencies>
+      <FinalizeDescSource>$(NintendoSdkSpecFilesDirectory)Application.desc</FinalizeDescSource>
+      <FinalizeMetaSource>$(NintendoSdkSpecFilesDirectory)Application.arm.ilp32.nmeta</FinalizeMetaSource>
+    </Link>
+    <PreBuildEvent>
+      <Command>if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX32'">
+    <ClCompile>
+      <StrictAliasing>false</StrictAliasing>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libnn_init_memory.a;libnn_gfx.a;libnn_mii_draw.a;libnns_gfxLog.a;libnn_gfxUtil.a;libnns_audio.a;%(AdditionalDependencies)</AdditionalDependencies>
+      <FinalizeDescSource>$(NintendoSdkSpecFilesDirectory)Application.desc</FinalizeDescSource>
+      <FinalizeMetaSource>$(NintendoSdkSpecFilesDirectory)Application.arm.ilp32.nmeta</FinalizeMetaSource>
+    </Link>
+    <PreBuildEvent>
+      <Command>if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|NX64'">
+    <ClCompile>
+      <StrictAliasing>false</StrictAliasing>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libnn_init_memory.a;libnn_gfx.a;libnn_mii_draw.a;libnns_gfxLog.a;libnn_gfxUtil.a;libnns_audio.a;%(AdditionalDependencies)</AdditionalDependencies>
+      <FinalizeDescSource>$(NintendoSdkSpecFilesDirectory)Application.desc</FinalizeDescSource>
+      <FinalizeMetaSource>$(NintendoSdkSpecFilesDirectory)Application.aarch64.lp64.nmeta</FinalizeMetaSource>
+    </Link>
+    <PreBuildEvent>
+      <Command>if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|NX64'">
+    <ClCompile>
+      <StrictAliasing>false</StrictAliasing>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libnn_init_memory.a;libnn_gfx.a;libnn_mii_draw.a;libnns_gfxLog.a;libnn_gfxUtil.a;libnns_audio.a;%(AdditionalDependencies)</AdditionalDependencies>
+      <FinalizeDescSource>$(NintendoSdkSpecFilesDirectory)Application.desc</FinalizeDescSource>
+      <FinalizeMetaSource>$(NintendoSdkSpecFilesDirectory)Application.aarch64.lp64.nmeta</FinalizeMetaSource>
+    </Link>
+    <PreBuildEvent>
+      <Command>if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|NX64'">
+    <ClCompile>
+      <StrictAliasing>false</StrictAliasing>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>libnn_init_memory.a;libnn_gfx.a;libnn_mii_draw.a;libnns_gfxLog.a;libnn_gfxUtil.a;libnns_audio.a;%(AdditionalDependencies)</AdditionalDependencies>
+      <FinalizeDescSource>$(NintendoSdkSpecFilesDirectory)Application.desc</FinalizeDescSource>
+      <FinalizeMetaSource>$(NintendoSdkSpecFilesDirectory)Application.aarch64.lp64.nmeta</FinalizeMetaSource>
+    </Link>
+    <PreBuildEvent>
+      <Command>if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|NX64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|NX64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|NX64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|NX64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|NX64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|NX64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|Win32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|Win32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|Win32'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\Win32\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\Win32\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\Win32\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\Win32\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\Win32\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;$(NintendoSdkRoot)Externals\glew\lib\Release\Win32;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\Win32\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Debug|x64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Develop|x64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_Release|x64'" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Debug|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\x64;$(NintendoSdkRoot)Externals\glew\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\x64\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Develop|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\x64;$(NintendoSdkRoot)Externals\glew\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\x64\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2015_Release|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\x64;$(NintendoSdkRoot)Externals\glew\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\x64\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Debug|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\x64;$(NintendoSdkRoot)Externals\glew\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\x64\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Develop|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\x64;$(NintendoSdkRoot)Externals\glew\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\x64\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='NX_VS2017_Release|x64'">
+    <ClCompile>
+      <PreprocessorDefinitions>NOMINMAX;WIN32_LEAN_AND_MEAN;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>OpenGL32.lib;glew32.lib;libnns_gfxLog.lib;libnn_gfxUtil.lib;libnns_audio.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>$(NintendoSdkRoot)Externals\glew\lib\Release\x64;$(NintendoSdkRoot)Externals\glew\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+    <PreBuildEvent>
+      <Command>set APPLICATION_DATA_DIRECTORY="$(NintendoSdkContentDirectory)"
+(if exist "$(OutDir)data" rmdir /S /Q "$(OutDir)data") &amp; mklink /j "$(OutDir)data" %APPLICATION_DATA_DIRECTORY%
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe0.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe0.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe1.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe1.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe2.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe2.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioCommon" mkdir "$(NintendoSdkContentDirectory)\AudioCommon"
+$(NintendoSdkRoot)Tools\Audio\AdpcmTools\AdpcmEncoder.exe -o $(NintendoSdkContentDirectory)\AudioCommon\SampleSe3.adpcm $(NintendoSdkRoot)Samples\Sources\Resources\AudioCommon\SampleSe3.wav
+
+if not exist "$(NintendoSdkContentDirectory)\AudioRenderer" mkdir "$(NintendoSdkContentDirectory)\AudioRenderer"
+copy /Y "$(ProjectDir)Resources\SampleBgm0-2ch.wav" "$(NintendoSdkContentDirectory)\AudioRenderer\SampleBgm0-2ch.wav"
+
+if not exist "$(OutDir)" mkdir "$(OutDir)"
+copy /Y "$(NintendoSdkRoot)Externals\glew\bin\Release\x64\glew32.dll" "$(OutDir)\glew32.dll"
+%(Command)</Command>
+    </PreBuildEvent>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets" />
+</Project>

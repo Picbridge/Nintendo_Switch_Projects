@@ -1,0 +1,19 @@
+﻿formatType : NintendoSubmissionPackage
+version : 0
+entries :
+  - contents :
+      - type : format
+        contentType : Program
+        path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nsp.c0.Program.nca.adf
+      - type : format
+        contentType : Control
+        path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nsp.c0.Control.nca.adf
+    metaType : Application
+    metaFilePath : C:/Nintendo/DigiPenSwitchUnity/NintendoSDK/Resources/SpecFiles/Application.aarch64.lp64.nmeta
+    nxIconMaxSize: 102400
+    nroDirectoryPath : 
+    keyIndex : 0
+    hasTicket: False
+    icon:
+        - language: AmericanEnglish
+          path: C:/Nintendo/DigiPenSwitchUnity/NintendoSDK/Resources/SpecFiles/NintendoSDK_Application.bmp

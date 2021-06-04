@@ -1,0 +1,7 @@
+﻿          1 file(s) copied.
+  MiiHeadwearExample.cpp
+  SixAxisPointer.cpp
+C:/Users/jihoon.bae/CS388_jihoon.bae_03/cs388-native/MiiHeadwearExample.cpp(220,24): warning : unused variable 'RotAngle' [-Wunused-variable]
+  AudioRenderer-spec.NX.autogen.vcxproj -> C:\Users\jihoon.bae\CS388_jihoon.bae_03\cs388-native\Binaries\NX64\NX_Develop\AudioRenderer.nso
+  Skipping MakeMeta (no relevant changes detected)
+  AudioRenderer-spec.NX.autogen.vcxproj -> C:\Users\jihoon.bae\CS388_jihoon.bae_03\cs388-native\Binaries\NX64\NX_Develop\AudioRenderer.nspd_root

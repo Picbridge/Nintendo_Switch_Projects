@@ -1,87 +1,92 @@
 ----IL2CPP Arguments----
---convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --platform=Switch --architecture=ARM64 --configuration=Release --outputpath=C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Native\SwitchPlayer.nss --cachedirectory=C:/Users/jihoon.bae/CS388_jihoon.bae_final/Assets/../SwitchIL2CPPCache/il2cpp_cache --plugin=C:/Program Files/Unity/Editor/Data/PlaybackEngines/Switch/Tools\Il2CppPlugin.dll --additional-include-directories=C:\Program Files\Unity\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\bdwgc/include --additional-include-directories=C:\Program Files\Unity\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\libil2cpp/include --verbose --enable-stats --stats-output-dir=C:/Users/jihoon.bae/CS388_jihoon.bae_final/Assets/../SwitchIL2CPPStats --libil2cpp-static --additional-defines=DEBUGMODE=0,UNITY_RELEASE=1,IL2CPP_USE_SOCKET_MULTIPLEX_IO=1 --configuration=ReleasePlus --profiler-report --map-file-parser=C:/Program Files/Unity/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/jihoon.bae/CS388_jihoon.bae_final/Temp/StagingArea/Managed --generatedcppdir=C:/Users/jihoon.bae/CS388_jihoon.bae_final/Temp/StagingArea/il2cppOutput
+--convert-to-cpp --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --platform=Switch --architecture=ARM64 --configuration=Release --outputpath=C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Native\SwitchPlayer.nss --cachedirectory=C:/Users/m.adams/Desktop/git/CS388_Final/Assets/../SwitchIL2CPPCache/il2cpp_cache --linker-flags=-lC:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\NativePlugins\NintendoSDKPlugin.a --plugin=C:/Program Files/Unity/Editor/Data/PlaybackEngines/Switch/Tools\Il2CppPlugin.dll --additional-include-directories=C:\Program Files\Unity\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\bdwgc/include --additional-include-directories=C:\Program Files\Unity\Editor\Data\PlaybackEngines\Switch\Tools/il2cpp\libil2cpp/include --verbose --enable-stats --stats-output-dir=C:/Users/m.adams/Desktop/git/CS388_Final/Assets/../SwitchIL2CPPStats --libil2cpp-static --additional-defines=DEBUGMODE=0,UNITY_RELEASE=1,IL2CPP_USE_SOCKET_MULTIPLEX_IO=1 --configuration=ReleasePlus --profiler-report --map-file-parser=C:/Program Files/Unity/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=C:/Users/m.adams/Desktop/git/CS388_Final/Temp/StagingArea/Managed --generatedcppdir=C:/Users/m.adams/Desktop/git/CS388_Final/Temp/StagingArea/il2cppOutput
 
 ----Assemblies Converted-----
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\Mono.Security.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\mscorlib.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\System.Configuration.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\System.Core.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\System.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\System.Xml.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.AIModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.AnimationModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.AssetBundleModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.AudioModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.CoreModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.DirectorModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.GridModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.IMGUIModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.InputModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.ParticleSystemModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.Physics2DModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.PhysicsModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.SharedInternalsModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.SwitchModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.TerrainModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.TextRenderingModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.TilemapModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.UIElementsModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.UIModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.UnityWebRequestModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.VFXModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.VideoModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.VRModule.dll
-	C:\Users\jihoon.bae\CS388_jihoon.bae_final\Temp\StagingArea\Managed\UnityEngine.XRModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\Assembly-CSharp.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\Mono.Security.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\mscorlib.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\netstandard.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\System.Configuration.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\System.Core.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\System.Diagnostics.StackTrace.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\System.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\System.Globalization.Extensions.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\System.Xml.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.AIModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.AnimationModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.AssetBundleModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.AudioModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.CoreModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.DirectorModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.GridModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.IMGUIModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.InputModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.ParticleSystemModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.Physics2DModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.PhysicsModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.SharedInternalsModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.SwitchModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.TerrainModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.TextRenderingModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.TilemapModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.UI.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.UIElementsModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.UIModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.UnityWebRequestModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.VFXModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.VideoModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.VRModule.dll
+	C:\Users\m.adams\Desktop\git\CS388_Final\Temp\StagingArea\Managed\UnityEngine.XRModule.dll
 
 ----- il2cpp Statistics -----
 General:
-	Conversion Time: 5.24 s
-	Files Written: 102
-	String Literals: 3262
+	Conversion Time: 8.813 s
+	Files Written: 123
+	String Literals: 3479
 Methods:
-	Total Methods: 13200
-	Non-Generic Methods: 9939
-	Generic Type Methods: 2557
-	Generic Methods: 704
-	Shared Methods: 3256
+	Total Methods: 20180
+	Non-Generic Methods: 13603
+	Generic Type Methods: 5154
+	Generic Methods: 1423
+	Shared Methods: 6572
 	Methods with Tail Calls : 0
 Metadata:
-	Total: 1,652.80 kb
-	String Literals: 25.48 kb
-	String Literal Data: 79.12 kb
-	Metadata Strings: 228.15 kb
-	Events: 0.23 kb
-	Properties: 32.60 kb
-	Methods: 344.63 kb
-	Parameter Default Values: 0.34 kb
-	Field Default Values: 38.27 kb
-	Field and Parameter Default Values Data: 65.81 kb
-	Field Marshaled Sizes: 5.93 kb
-	Parameters: 158.94 kb
-	Fields: 90.35 kb
-	Generic Parameters: 4.30 kb
-	Generic Parameter Constraints: 0.10 kb
-	Generic Containers: 3.28 kb
-	Nested Types: 1.63 kb
-	Interfaces: 3.00 kb
-	VTables: 75.67 kb
-	Interface Offsets: 17.55 kb
-	Type Definitions: 191.01 kb
-	Images: 1.21 kb
-	Assemblies: 2.06 kb
-	Metadata Usage Lists: 48.95 kb
-	Metadata Usage Pairs: 173.97 kb
-	Field Refs: 0.81 kb
-	Referenced Assemblies: 0.55 kb
-	Attribute Types Ranges: 31.02 kb
-	Attribute Types: 21.23 kb
-	Unresolved Virtual Call Parameter Types: 2.46 kb
-	Unresolved Virtual Call Parameter Ranges: 1.61 kb
+	Total: 2,123.14 kb
+	String Literals: 27.18 kb
+	String Literal Data: 86.11 kb
+	Metadata Strings: 297.19 kb
+	Events: 0.33 kb
+	Properties: 50.86 kb
+	Methods: 466.34 kb
+	Parameter Default Values: 0.42 kb
+	Field Default Values: 47.63 kb
+	Field and Parameter Default Values Data: 69.14 kb
+	Field Marshaled Sizes: 7.90 kb
+	Parameters: 196.50 kb
+	Fields: 119.18 kb
+	Generic Parameters: 5.13 kb
+	Generic Parameter Constraints: 0.16 kb
+	Generic Containers: 4.11 kb
+	Nested Types: 2.18 kb
+	Interfaces: 4.51 kb
+	VTables: 101.22 kb
+	Interface Offsets: 24.09 kb
+	Type Definitions: 238.45 kb
+	Images: 1.41 kb
+	Assemblies: 2.39 kb
+	Metadata Usage Lists: 66.96 kb
+	Metadata Usage Pairs: 223.88 kb
+	Field Refs: 0.82 kb
+	Referenced Assemblies: 0.62 kb
+	Attribute Types Ranges: 41.59 kb
+	Attribute Types: 25.73 kb
+	Unresolved Virtual Call Parameter Types: 3.45 kb
+	Unresolved Virtual Call Parameter Ranges: 2.33 kb
 	Windows Runtime type names: 0.00 kb
-	Exported Types: 2.54 kb
+	Exported Types: 5.34 kb
 Codegen:
-	NullChecks : 23426
+	NullChecks : 0
 Hashing:
 	String Literal Hash Collisions : 0
 	Type Hash Collisions : 0
@@ -97,115 +102,136 @@ Interop:
 	COM callable wrapper methods that were stripped : 0
 	COM callable wrapper methods that were forwarded to call base class method : 0
 Compilation:
-	Total Files: 169
+	Total Files: 190
 	Files Compiled: 34
-	Cache Hits: 135
-	Cache Hit %: 79
+	Cache Hits: 156
+	Cache Hit %: 82
 
 
 ----Assembly Conversion Times----
-	Convert Mono.Security (7.24730014801025ms)
-	Convert mscorlib (1887.52917480469ms)
-	Convert System (191.095291137695ms)
-	Convert System.Configuration (3.58899998664856ms)
-	Convert System.Core (0.77649998664856ms)
-	Convert System.Xml (2.62450003623962ms)
-	Convert UnityEngine (0.666800022125244ms)
-	Convert UnityEngine.AIModule (1.06879997253418ms)
-	Convert UnityEngine.AnimationModule (12.8839998245239ms)
-	Convert UnityEngine.AssetBundleModule (2.49559998512268ms)
-	Convert UnityEngine.AudioModule (6.9060001373291ms)
-	Convert UnityEngine.CoreModule (144.444198608398ms)
-	Convert UnityEngine.DirectorModule (1.29059994220734ms)
-	Convert UnityEngine.GridModule (0.634199976921082ms)
-	Convert UnityEngine.IMGUIModule (47.5935020446777ms)
-	Convert UnityEngine.InputModule (2.97749996185303ms)
-	Convert UnityEngine.ParticleSystemModule (5.97049999237061ms)
-	Convert UnityEngine.Physics2DModule (24.7104988098145ms)
-	Convert UnityEngine.PhysicsModule (9.58030033111572ms)
-	Convert UnityEngine.SharedInternalsModule (9.94820022583008ms)
-	Convert UnityEngine.SwitchModule (5.49709987640381ms)
-	Convert UnityEngine.TerrainModule (13.5608987808228ms)
-	Convert UnityEngine.TextRenderingModule (2.51340007781982ms)
-	Convert UnityEngine.TilemapModule (4.6793999671936ms)
-	Convert UnityEngine.UIElementsModule (4.82130002975464ms)
-	Convert UnityEngine.UIModule (1.08780002593994ms)
-	Convert UnityEngine.UnityWebRequestModule (2.36529994010925ms)
-	Convert UnityEngine.VFXModule (3.27239990234375ms)
-	Convert UnityEngine.VideoModule (4.12650012969971ms)
-	Convert UnityEngine.VRModule (0.869000017642975ms)
-	Convert UnityEngine.XRModule (23.8327007293701ms)
+	Convert Assembly-CSharp (839.99169921875ms)
+	Convert Mono.Security (6.94719982147217ms)
+	Convert mscorlib (1960.52075195313ms)
+	Convert netstandard (0.424400001764297ms)
+	Convert System (193.465209960938ms)
+	Convert System.Configuration (3.30979990959167ms)
+	Convert System.Core (0.837599992752075ms)
+	Convert System.Diagnostics.StackTrace (0.522700011730194ms)
+	Convert System.Globalization.Extensions (0.479499995708466ms)
+	Convert System.Xml (22.5104007720947ms)
+	Convert UnityEngine (0.675100028514862ms)
+	Convert UnityEngine.AIModule (1.12349998950958ms)
+	Convert UnityEngine.AnimationModule (13.5528993606567ms)
+	Convert UnityEngine.AssetBundleModule (1.9831999540329ms)
+	Convert UnityEngine.AudioModule (6.0246000289917ms)
+	Convert UnityEngine.CoreModule (194.602096557617ms)
+	Convert UnityEngine.DirectorModule (1.16059994697571ms)
+	Convert UnityEngine.GridModule (0.857699990272522ms)
+	Convert UnityEngine.IMGUIModule (44.0728988647461ms)
+	Convert UnityEngine.InputModule (3.24769997596741ms)
+	Convert UnityEngine.ParticleSystemModule (5.37370014190674ms)
+	Convert UnityEngine.Physics2DModule (11.819899559021ms)
+	Convert UnityEngine.PhysicsModule (10.7250995635986ms)
+	Convert UnityEngine.SharedInternalsModule (9.84609985351563ms)
+	Convert UnityEngine.SwitchModule (6.478600025177ms)
+	Convert UnityEngine.TerrainModule (13.4989995956421ms)
+	Convert UnityEngine.TextRenderingModule (10.6175003051758ms)
+	Convert UnityEngine.TilemapModule (4.96470022201538ms)
+	Convert UnityEngine.UI (690.304382324219ms)
+	Convert UnityEngine.UIElementsModule (4.88019990921021ms)
+	Convert UnityEngine.UIModule (9.80539989471436ms)
+	Convert UnityEngine.UnityWebRequestModule (2.01900005340576ms)
+	Convert UnityEngine.VFXModule (3.7671000957489ms)
+	Convert UnityEngine.VideoModule (4.66949987411499ms)
+	Convert UnityEngine.VRModule (0.89029997587204ms)
+	Convert UnityEngine.XRModule (24.6058006286621ms)
 
 ----Misc Timing----
-	PreProcessStage: 151.762908935547
+	PreProcessStage: 236.367904663086
 	GenericsCollector.Collect: None
-	WriteGenerics: 776.141723632813
-	AllAssemblyConversion: 2508.19458007813
+	WriteGenerics: 1548.43273925781
+	AllAssemblyConversion: 4241.08203125
 
 ----Generated Files----
-GenericMethods.cpp	1758002
-GenericMethods1.cpp	832444
-Generics.cpp	1827041
-Generics1.cpp	1514135
-Generics2.cpp	1501264
-Generics3.cpp	1351348
-Generics4.cpp	1165395
-Il2CppAttributes.cpp	2882477
-Il2CppCodeRegistration.cpp	5390
-Il2CppCompilerCalculateTypeValues.cpp	4404621
-Il2CppCompilerCalculateTypeValuesTable.cpp	304648
+Assembly-CSharp.cpp	1777413
+Assembly-CSharp1.cpp	1629652
+Assembly-CSharp2.cpp	392661
+GenericMethods.cpp	2309570
+GenericMethods1.cpp	1951832
+GenericMethods2.cpp	1740584
+Generics.cpp	2099582
+Generics1.cpp	2160783
+Generics2.cpp	1406606
+Generics3.cpp	1396440
+Generics4.cpp	1457772
+Generics5.cpp	1357043
+Generics6.cpp	1410779
+Generics7.cpp	1582705
+Generics8.cpp	763241
+Il2CppAttributes.cpp	3573701
+Il2CppCodeRegistration.cpp	5994
+Il2CppCompilerCalculateTypeValues.cpp	4435910
+Il2CppCompilerCalculateTypeValues1.cpp	1513834
+Il2CppCompilerCalculateTypeValuesTable.cpp	389249
 Il2CppGenericComDefinitions.cpp	214
-Il2CppGenericMethodPointerTable.cpp	812613
-Il2CppInteropDataTable.cpp	130600
-Il2CppInvokerTable.cpp	1767596
-Mono.Security.cpp	137140
-mscorlib.cpp	2138521
-mscorlib1.cpp	2003711
-mscorlib10.cpp	2027309
-mscorlib11.cpp	2219002
-mscorlib12.cpp	1703838
-mscorlib13.cpp	1753455
-mscorlib14.cpp	2245187
-mscorlib15.cpp	1228637
-mscorlib2.cpp	1674628
-mscorlib3.cpp	1934430
-mscorlib4.cpp	1758467
-mscorlib5.cpp	1802055
-mscorlib6.cpp	1855603
-mscorlib7.cpp	1744278
-mscorlib8.cpp	2083087
-mscorlib9.cpp	1998622
-System.Configuration.cpp	62391
+Il2CppGenericMethodPointerTable.cpp	1676839
+Il2CppInteropDataTable.cpp	150963
+Il2CppInvokerTable.cpp	2926480
+Mono.Security.cpp	135350
+mscorlib.cpp	2122644
+mscorlib1.cpp	2018764
+mscorlib10.cpp	2635463
+mscorlib11.cpp	1719984
+mscorlib12.cpp	1713744
+mscorlib13.cpp	1759236
+mscorlib14.cpp	1858942
+mscorlib15.cpp	903347
+mscorlib2.cpp	1678564
+mscorlib3.cpp	1980344
+mscorlib4.cpp	1766781
+mscorlib5.cpp	1850893
+mscorlib6.cpp	1855580
+mscorlib7.cpp	1773604
+mscorlib8.cpp	2090148
+mscorlib9.cpp	2254171
+netstandard.cpp	999
+System.Configuration.cpp	66785
 System.Core.cpp	19629
-System.cpp	1887874
-System.Xml.cpp	47054
-System1.cpp	1202751
-UnityEngine.AIModule.cpp	21692
-UnityEngine.AnimationModule.cpp	236092
+System.cpp	1862389
+System.Diagnostics.StackTrace.cpp	999
+System.Globalization.Extensions.cpp	999
+System.Xml.cpp	47614
+System1.cpp	1183940
+UnityEngine.AIModule.cpp	21674
+UnityEngine.AnimationModule.cpp	239856
 UnityEngine.AssetBundleModule.cpp	28853
-UnityEngine.AudioModule.cpp	106827
-UnityEngine.CoreModule.cpp	1878023
-UnityEngine.CoreModule1.cpp	436404
+UnityEngine.AudioModule.cpp	106737
+UnityEngine.CoreModule.cpp	1801831
+UnityEngine.CoreModule1.cpp	1227374
 UnityEngine.cpp	3442
-UnityEngine.DirectorModule.cpp	20383
+UnityEngine.DirectorModule.cpp	20329
 UnityEngine.GridModule.cpp	5424
-UnityEngine.IMGUIModule.cpp	714420
-UnityEngine.InputModule.cpp	50749
-UnityEngine.ParticleSystemModule.cpp	72457
-UnityEngine.Physics2DModule.cpp	172257
-UnityEngine.PhysicsModule.cpp	145556
-UnityEngine.SharedInternalsModule.cpp	158054
-UnityEngine.SwitchModule.cpp	100214
-UnityEngine.TerrainModule.cpp	267054
-UnityEngine.TextRenderingModule.cpp	26850
-UnityEngine.TilemapModule.cpp	78534
-UnityEngine.UIElementsModule.cpp	92911
-UnityEngine.UIModule.cpp	23892
-UnityEngine.UnityWebRequestModule.cpp	64859
-UnityEngine.VFXModule.cpp	52660
-UnityEngine.VideoModule.cpp	85234
-UnityEngine.VRModule.cpp	17149
-UnityEngine.XRModule.cpp	400617
-UnlinkedFunctions.cpp	574
-UnresolvedVirtualCallStubs.cpp	219976
+UnityEngine.IMGUIModule.cpp	713227
+UnityEngine.InputModule.cpp	50641
+UnityEngine.ParticleSystemModule.cpp	76432
+UnityEngine.Physics2DModule.cpp	179513
+UnityEngine.PhysicsModule.cpp	158976
+UnityEngine.SharedInternalsModule.cpp	160140
+UnityEngine.SwitchModule.cpp	101596
+UnityEngine.TerrainModule.cpp	264921
+UnityEngine.TextRenderingModule.cpp	202655
+UnityEngine.TilemapModule.cpp	78498
+UnityEngine.UI.cpp	2068068
+UnityEngine.UI1.cpp	1873793
+UnityEngine.UI2.cpp	1790717
+UnityEngine.UI3.cpp	203558
+UnityEngine.UIElementsModule.cpp	92677
+UnityEngine.UIModule.cpp	197690
+UnityEngine.UnityWebRequestModule.cpp	64786
+UnityEngine.VFXModule.cpp	52642
+UnityEngine.VideoModule.cpp	84802
+UnityEngine.VRModule.cpp	17131
+UnityEngine.XRModule.cpp	399362
+UnlinkedFunctions.cpp	330
+UnresolvedVirtualCallStubs.cpp	305985
 

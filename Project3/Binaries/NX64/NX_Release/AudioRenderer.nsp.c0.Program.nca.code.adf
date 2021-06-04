@@ -1,0 +1,19 @@
+﻿formatType : PartitionFs
+version : 0
+entries :
+  - type : file
+    name : "main"
+    offset : 0
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nspd\program0.ncd\code\main
+  - type : file
+    name : "main.npdm"
+    offset : 178476
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nspd\program0.ncd\code\main.npdm
+  - type : file
+    name : "rtld"
+    offset : 179984
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nspd\program0.ncd\code\rtld
+  - type : file
+    name : "sdk"
+    offset : 187337
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nspd\program0.ncd\code\sdk

@@ -1,0 +1,11 @@
+﻿formatType : RomFs
+version : 0
+entries :
+  - type : file
+    name : "control.nacp"
+    offset : 0
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nsp.control\control.nacp
+  - type : file
+    name : "icon_AmericanEnglish.dat"
+    offset : 16384
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\NX_Release\AudioRenderer.nsp.control\icon_AmericanEnglish.dat

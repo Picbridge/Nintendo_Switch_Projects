@@ -1,0 +1,807 @@
+﻿formatType : RomFs
+version : 0
+entries :
+  - type : file
+    name : "AudioCommon/SampleSe0.adpcm"
+    offset : 0
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\AudioCommon\SampleSe0.adpcm
+  - type : file
+    name : "AudioCommon/SampleSe1.adpcm"
+    offset : 9648
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\AudioCommon\SampleSe1.adpcm
+  - type : file
+    name : "AudioCommon/SampleSe2.adpcm"
+    offset : 29712
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\AudioCommon\SampleSe2.adpcm
+  - type : file
+    name : "AudioCommon/SampleSe3.adpcm"
+    offset : 42160
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\AudioCommon\SampleSe3.adpcm
+  - type : file
+    name : "AudioRenderer/SampleBgm0-2ch.wav"
+    offset : 58112
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\AudioRenderer\SampleBgm0-2ch.wav
+  - type : file
+    name : "Common/charinfo/GenderFemaleBuild0Height0.dat"
+    offset : 11076288
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderFemaleBuild0Height0.dat
+  - type : file
+    name : "Common/charinfo/GenderFemaleBuild0Height127.dat"
+    offset : 11076384
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderFemaleBuild0Height127.dat
+  - type : file
+    name : "Common/charinfo/GenderFemaleBuild127Height0.dat"
+    offset : 11076480
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderFemaleBuild127Height0.dat
+  - type : file
+    name : "Common/charinfo/GenderFemaleBuild127Height127.dat"
+    offset : 11076576
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderFemaleBuild127Height127.dat
+  - type : file
+    name : "Common/charinfo/GenderMaleBuild0Height0.dat"
+    offset : 11076672
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderMaleBuild0Height0.dat
+  - type : file
+    name : "Common/charinfo/GenderMaleBuild0Height127.dat"
+    offset : 11076768
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderMaleBuild0Height127.dat
+  - type : file
+    name : "Common/charinfo/GenderMaleBuild127Height0.dat"
+    offset : 11076864
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderMaleBuild127Height0.dat
+  - type : file
+    name : "Common/charinfo/GenderMaleBuild127Height127.dat"
+    offset : 11076960
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\GenderMaleBuild127Height127.dat
+  - type : file
+    name : "Common/charinfo/SampleBroken00.dat"
+    offset : 11077056
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\SampleBroken00.dat
+  - type : file
+    name : "Common/charinfo/SampleBroken01.dat"
+    offset : 11077152
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\SampleBroken01.dat
+  - type : file
+    name : "Common/charinfo/SampleMiiG3d.dat"
+    offset : 11077248
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\SampleMiiG3d.dat
+  - type : file
+    name : "Common/charinfo/SampleMiiPremultipliedAlphaIcon.dat"
+    offset : 11077344
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\SampleMiiPremultipliedAlphaIcon.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo000.dat"
+    offset : 11077440
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo000.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo001.dat"
+    offset : 11077536
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo001.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo002.dat"
+    offset : 11077632
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo002.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo003.dat"
+    offset : 11077728
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo003.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo004.dat"
+    offset : 11077824
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo004.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo005.dat"
+    offset : 11077920
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo005.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo006.dat"
+    offset : 11078016
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo006.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo007.dat"
+    offset : 11078112
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo007.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo008.dat"
+    offset : 11078208
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo008.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo009.dat"
+    offset : 11078304
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo009.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo010.dat"
+    offset : 11078400
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo010.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo011.dat"
+    offset : 11078496
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo011.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo012.dat"
+    offset : 11078592
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo012.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo013.dat"
+    offset : 11078688
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo013.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo014.dat"
+    offset : 11078784
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo014.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo015.dat"
+    offset : 11078880
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo015.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo016.dat"
+    offset : 11078976
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo016.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo017.dat"
+    offset : 11079072
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo017.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo018.dat"
+    offset : 11079168
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo018.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo019.dat"
+    offset : 11079264
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo019.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo020.dat"
+    offset : 11079360
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo020.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo021.dat"
+    offset : 11079456
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo021.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo022.dat"
+    offset : 11079552
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo022.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo023.dat"
+    offset : 11079648
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo023.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo024.dat"
+    offset : 11079744
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo024.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo025.dat"
+    offset : 11079840
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo025.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo026.dat"
+    offset : 11079936
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo026.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo027.dat"
+    offset : 11080032
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo027.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo028.dat"
+    offset : 11080128
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo028.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo029.dat"
+    offset : 11080224
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo029.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo030.dat"
+    offset : 11080320
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo030.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo031.dat"
+    offset : 11080416
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo031.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo032.dat"
+    offset : 11080512
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo032.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo033.dat"
+    offset : 11080608
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo033.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo034.dat"
+    offset : 11080704
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo034.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo035.dat"
+    offset : 11080800
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo035.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo036.dat"
+    offset : 11080896
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo036.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo037.dat"
+    offset : 11080992
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo037.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo038.dat"
+    offset : 11081088
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo038.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo039.dat"
+    offset : 11081184
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo039.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo040.dat"
+    offset : 11081280
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo040.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo041.dat"
+    offset : 11081376
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo041.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo042.dat"
+    offset : 11081472
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo042.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo043.dat"
+    offset : 11081568
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo043.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo044.dat"
+    offset : 11081664
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo044.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo045.dat"
+    offset : 11081760
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo045.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo046.dat"
+    offset : 11081856
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo046.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo047.dat"
+    offset : 11081952
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo047.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo048.dat"
+    offset : 11082048
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo048.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo049.dat"
+    offset : 11082144
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo049.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo050.dat"
+    offset : 11082240
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo050.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo051.dat"
+    offset : 11082336
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo051.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo052.dat"
+    offset : 11082432
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo052.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo053.dat"
+    offset : 11082528
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo053.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo054.dat"
+    offset : 11082624
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo054.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo055.dat"
+    offset : 11082720
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo055.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo056.dat"
+    offset : 11082816
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo056.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo057.dat"
+    offset : 11082912
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo057.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo058.dat"
+    offset : 11083008
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo058.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo059.dat"
+    offset : 11083104
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo059.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo060.dat"
+    offset : 11083200
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo060.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo061.dat"
+    offset : 11083296
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo061.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo062.dat"
+    offset : 11083392
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo062.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo063.dat"
+    offset : 11083488
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo063.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo064.dat"
+    offset : 11083584
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo064.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo065.dat"
+    offset : 11083680
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo065.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo066.dat"
+    offset : 11083776
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo066.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo067.dat"
+    offset : 11083872
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo067.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo068.dat"
+    offset : 11083968
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo068.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo069.dat"
+    offset : 11084064
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo069.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo070.dat"
+    offset : 11084160
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo070.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo071.dat"
+    offset : 11084256
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo071.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo072.dat"
+    offset : 11084352
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo072.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo073.dat"
+    offset : 11084448
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo073.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo074.dat"
+    offset : 11084544
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo074.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo075.dat"
+    offset : 11084640
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo075.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo076.dat"
+    offset : 11084736
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo076.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo077.dat"
+    offset : 11084832
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo077.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo078.dat"
+    offset : 11084928
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo078.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo079.dat"
+    offset : 11085024
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo079.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo080.dat"
+    offset : 11085120
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo080.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo081.dat"
+    offset : 11085216
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo081.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo082.dat"
+    offset : 11085312
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo082.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo083.dat"
+    offset : 11085408
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo083.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo084.dat"
+    offset : 11085504
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo084.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo085.dat"
+    offset : 11085600
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo085.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo086.dat"
+    offset : 11085696
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo086.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo087.dat"
+    offset : 11085792
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo087.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo088.dat"
+    offset : 11085888
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo088.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo089.dat"
+    offset : 11085984
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo089.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo090.dat"
+    offset : 11086080
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo090.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo091.dat"
+    offset : 11086176
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo091.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo092.dat"
+    offset : 11086272
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo092.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo093.dat"
+    offset : 11086368
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo093.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo094.dat"
+    offset : 11086464
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo094.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo095.dat"
+    offset : 11086560
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo095.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo096.dat"
+    offset : 11086656
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo096.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo097.dat"
+    offset : 11086752
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo097.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo098.dat"
+    offset : 11086848
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo098.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo099.dat"
+    offset : 11086944
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo099.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo100.dat"
+    offset : 11087040
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo100.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo101.dat"
+    offset : 11087136
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo101.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo102.dat"
+    offset : 11087232
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo102.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo103.dat"
+    offset : 11087328
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo103.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo104.dat"
+    offset : 11087424
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo104.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo105.dat"
+    offset : 11087520
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo105.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo106.dat"
+    offset : 11087616
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo106.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo107.dat"
+    offset : 11087712
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo107.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo108.dat"
+    offset : 11087808
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo108.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo109.dat"
+    offset : 11087904
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo109.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo110.dat"
+    offset : 11088000
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo110.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo111.dat"
+    offset : 11088096
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo111.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo112.dat"
+    offset : 11088192
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo112.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo113.dat"
+    offset : 11088288
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo113.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo114.dat"
+    offset : 11088384
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo114.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo115.dat"
+    offset : 11088480
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo115.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo116.dat"
+    offset : 11088576
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo116.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo117.dat"
+    offset : 11088672
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo117.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo118.dat"
+    offset : 11088768
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo118.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo119.dat"
+    offset : 11088864
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo119.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo120.dat"
+    offset : 11088960
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo120.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo121.dat"
+    offset : 11089056
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo121.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo122.dat"
+    offset : 11089152
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo122.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo123.dat"
+    offset : 11089248
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo123.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo124.dat"
+    offset : 11089344
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo124.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo125.dat"
+    offset : 11089440
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo125.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo126.dat"
+    offset : 11089536
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo126.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo127.dat"
+    offset : 11089632
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo127.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo128.dat"
+    offset : 11089728
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo128.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo129.dat"
+    offset : 11089824
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo129.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo130.dat"
+    offset : 11089920
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo130.dat
+  - type : file
+    name : "Common/charinfo/TestCharInfo131.dat"
+    offset : 11090016
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\charinfo\TestCharInfo131.dat
+  - type : file
+    name : "Common/iconbody/IconBody.dat"
+    offset : 11090112
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\iconbody\IconBody.dat
+  - type : file
+    name : "Common/iconbody/MiiBody.dat"
+    offset : 11130544
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\iconbody\MiiBody.dat
+  - type : file
+    name : "Common/resource/NXTextureLowLinear.dat"
+    offset : 11193856
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\NXTextureLowLinear.dat
+  - type : file
+    name : "Common/resource/NXTextureLowSRGB.dat"
+    offset : 11496512
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\NXTextureLowSRGB.dat
+  - type : file
+    name : "Common/resource/NXTextureMidLinear.dat"
+    offset : 11799792
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\NXTextureMidLinear.dat
+  - type : file
+    name : "Common/resource/NXTextureMidSRGB.dat"
+    offset : 12477920
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\NXTextureMidSRGB.dat
+  - type : file
+    name : "Common/resource/ShapeHigh.dat"
+    offset : 13156960
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\ShapeHigh.dat
+  - type : file
+    name : "Common/resource/ShapeMid.dat"
+    offset : 16028064
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\ShapeMid.dat
+  - type : file
+    name : "Common/resource/WinGenericTextureLowLinear.dat"
+    offset : 16966432
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinGenericTextureLowLinear.dat
+  - type : file
+    name : "Common/resource/WinGenericTextureLowSRGB.dat"
+    offset : 17246144
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinGenericTextureLowSRGB.dat
+  - type : file
+    name : "Common/resource/WinGenericTextureMidLinear.dat"
+    offset : 17526496
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinGenericTextureMidLinear.dat
+  - type : file
+    name : "Common/resource/WinGenericTextureMidSRGB.dat"
+    offset : 18164384
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinGenericTextureMidSRGB.dat
+  - type : file
+    name : "Common/resource/WinNvnTextureLowLinear.dat"
+    offset : 18803360
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinNvnTextureLowLinear.dat
+  - type : file
+    name : "Common/resource/WinNvnTextureLowSRGB.dat"
+    offset : 19074368
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinNvnTextureLowSRGB.dat
+  - type : file
+    name : "Common/resource/WinNvnTextureMidLinear.dat"
+    offset : 19346016
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinNvnTextureMidLinear.dat
+  - type : file
+    name : "Common/resource/WinNvnTextureMidSRGB.dat"
+    offset : 19968000
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\resource\WinNvnTextureMidSRGB.dat
+  - type : file
+    name : "Common/sampledb/AllColorTransparentGlass.dat"
+    offset : 20590880
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\AllColorTransparentGlass.dat
+  - type : file
+    name : "Common/sampledb/AllFacelineColor.dat"
+    offset : 20595728
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\AllFacelineColor.dat
+  - type : file
+    name : "Common/sampledb/AllFacelineType.dat"
+    offset : 20600576
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\AllFacelineType.dat
+  - type : file
+    name : "Common/sampledb/AllFavoriteColor.dat"
+    offset : 20605424
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\AllFavoriteColor.dat
+  - type : file
+    name : "Common/sampledb/AllHairColor.dat"
+    offset : 20610272
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\AllHairColor.dat
+  - type : file
+    name : "Common/sampledb/AllHairType00.dat"
+    offset : 20615120
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\AllHairType00.dat
+  - type : file
+    name : "Common/sampledb/AllHairType01.dat"
+    offset : 20619968
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\AllHairType01.dat
+  - type : file
+    name : "Common/sampledb/BuildHeight.dat"
+    offset : 20624816
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\BuildHeight.dat
+  - type : file
+    name : "Common/sampledb/Full.dat"
+    offset : 20629664
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\Full.dat
+  - type : file
+    name : "Common/sampledb/FullIncludedSpecialMii.dat"
+    offset : 20634512
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\FullIncludedSpecialMii.dat
+  - type : file
+    name : "Common/sampledb/FullMiiNameChina.dat"
+    offset : 20639360
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\FullMiiNameChina.dat
+  - type : file
+    name : "Common/sampledb/FullMiiNameJpUsEu.dat"
+    offset : 20644208
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\FullMiiNameJpUsEu.dat
+  - type : file
+    name : "Common/sampledb/FullMiiNameKorea.dat"
+    offset : 20649056
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\FullMiiNameKorea.dat
+  - type : file
+    name : "Common/sampledb/FullMiiNameTaiwan.dat"
+    offset : 20653904
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\FullMiiNameTaiwan.dat
+  - type : file
+    name : "Common/sampledb/FullOnlySpecialMii.dat"
+    offset : 20658752
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\FullOnlySpecialMii.dat
+  - type : file
+    name : "Common/sampledb/Handful.dat"
+    offset : 20663600
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\Handful.dat
+  - type : file
+    name : "Common/sampledb/MaxHeightWidthDepthPartsSet.dat"
+    offset : 20668448
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\MaxHeightWidthDepthPartsSet.dat
+  - type : file
+    name : "Common/sampledb/MaxMemoryPartsSet.dat"
+    offset : 20673296
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\MaxMemoryPartsSet.dat
+  - type : file
+    name : "Common/sampledb/MaxVertexPolygon.dat"
+    offset : 20678144
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\MaxVertexPolygon.dat
+  - type : file
+    name : "Common/sampledb/MinMaxXYZ.dat"
+    offset : 20682992
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\MinMaxXYZ.dat
+  - type : file
+    name : "Common/sampledb/NoFont.dat"
+    offset : 20687840
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\NoFont.dat
+  - type : file
+    name : "Common/sampledb/PartsFull.dat"
+    offset : 20692688
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\PartsFull.dat
+  - type : file
+    name : "Common/sampledb/PartsTransformMinMax.dat"
+    offset : 20697536
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Common\sampledb\PartsTransformMinMax.dat
+  - type : file
+    name : "Platform/shader/IconShader.bnsh"
+    offset : 20702384
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Platform\shader\IconShader.bnsh
+  - type : file
+    name : "Platform/shader/MipMapShader.bnsh"
+    offset : 20719200
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Platform\shader\MipMapShader.bnsh
+  - type : file
+    name : "Platform/shader/TextureShader.bnsh"
+    offset : 20731872
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Platform\shader\TextureShader.bnsh
+  - type : file
+    name : "Platform/shader/TransparentAdjuster.bnsh"
+    offset : 20744544
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Platform\shader\TransparentAdjuster.bnsh
+  - type : file
+    name : "Platform/shader/VariableIconBodyShader.bnsh"
+    offset : 20757216
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Platform\shader\VariableIconBodyShader.bnsh
+  - type : file
+    name : "Sample/Acce_front.nfsb"
+    offset : 20774080
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\Acce_front.nfsb
+  - type : file
+    name : "Sample/Acce_side.nfsb"
+    offset : 20780816
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\Acce_side.nfsb
+  - type : file
+    name : "Sample/Acce_top.nfsb"
+    offset : 20785840
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\Acce_top.nfsb
+  - type : file
+    name : "Sample/Cap_sample00.nfsb"
+    offset : 20790864
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\Cap_sample00.nfsb
+  - type : file
+    name : "Sample/Cap_sample01.nfsb"
+    offset : 20795424
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\Cap_sample01.nfsb
+  - type : file
+    name : "Sample/Headgear.nfsb"
+    offset : 20798720
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\Headgear.nfsb
+  - type : file
+    name : "Sample/SampleShader.bnsh"
+    offset : 20812480
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\SampleShader.bnsh
+  - type : file
+    name : "Sample/TextureCompressorShader.bnsh"
+    offset : 20825200
+    path : C:\Nintendo\DigiPenSwitchUnity\NintendoSDK\Samples\Sources\Applications\cs388-native\Binaries\NX64\Contents\NX\Sample\TextureCompressorShader.bnsh
